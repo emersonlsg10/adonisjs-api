@@ -1,6 +1,6 @@
 ## ARCHITECTURE MULTI TENANT - SINGLE DATABASE
 
-A Schedules System mobile first to barbers. Back end developed using Adonis JS and Front end developed using Next JS.
+A Schedules System mobile first TO Barbershops Schedules. Back end developed using Adonis JS and Front end developed using Next JS.
 
 # Adonis API application
 
